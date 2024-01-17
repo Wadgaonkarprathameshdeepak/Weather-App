@@ -1,6 +1,8 @@
-🌦️# Weather App
+ ## 🌦️ Weather App 🌦️
 
 Welcome to the Weather App repository! This application provides real-time weather information to users, offering a seamless and intuitive experience. Built with React.js, the app fetches accurate and up-to-date weather data, allowing users to access current conditions, forecasts, and more.
+## Images
+![Screenshot 2024-01-17 184327](https://github.com/Wadgaonkarprathameshdeepak/Weather-App/assets/95523666/6213b4dc-e8a0-4b5a-958f-4c2ebb476fe8)
 
 ## Features
 
@@ -16,30 +18,8 @@ Welcome to the Weather App repository! This application provides real-time weath
 - @fortawesome/react-fontawesome for Font Awesome icons
 - Weather APIs (Specify the API you used)
 
-## Getting Started
-
-Follow these steps to run the Weather App locally:
-
-1. Clone the repository: `git clone https://github.com/your-username/weather-app.git`
-2. Navigate to the project directory: `cd weather-app`
-3. Install dependencies: `npm install` or `yarn install`
-4. Run the app: `npm start` or `yarn start`
-
-## How to Contribute
-
-If you'd like to contribute to the project, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/new-feature`
-3. Make your changes and commit them: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin feature/new-feature`
-5. Submit a pull request.
-
 ## Acknowledgments
 
 - [Font Awesome](https://fontawesome.com/) for the awesome icons.
 - [OpenWeatherMap](https://openweathermap.org/) for providing weather data.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
